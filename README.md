@@ -1,6 +1,8 @@
 # What's new in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
+#Code with Ravi Chandra Madipadiga 
+HI all today i will make you go through all the technical stuff which are usefull for placements.
 
 * Eager Execution / tf.function
 * Integration of the Keras API
